@@ -26,6 +26,7 @@ A fully functional graphical calculator built with Python and Tkinter, supportin
 | ![Light](images/light_mode.png) | ![Dark](images/dark_mode.png) |
 
 ---
+Made by Parsa143
 
 ## 🚀 Getting Started
 
